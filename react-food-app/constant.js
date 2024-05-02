@@ -1,0 +1,58 @@
+export const data = [
+  {
+    name: "hotel_01",
+    img: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/2b4f62d606d1b2bfba9ba9e5386fabb7",
+    rate: "4.5",
+    desc: "pizza",
+    adress: "mg ROad",
+  },
+  {
+    name: "hotel_02",
+    img: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/f1aa621021a2826088089b89842d4e7c",
+    rate: "3.5",
+    desc: "burder",
+    adress: "mumbai",
+  },
+  {
+    name: "hotel_03",
+    img: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/9869efb0-ef0e-41eb-bffa-9d6e03eef55e_432976.JPG",
+    rate: "1.5",
+    desc: "kfc",
+    adress: "belgavi",
+  },
+  {
+    name: "hotel_04",
+    img: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/0b6ccedf0af57a82ecea2910397bb947",
+    rate: "17.5",
+    desc: "fsadfc",
+    adress: "lfagavi",
+  },
+  {
+    name: "hotel_05",
+    img: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e62351117b87978ba8af4c541d834053",
+    rate: "2.5",
+    desc: "fdfc",
+    adress: "jknnkl",
+  },
+  {
+    name: "hotel_06",
+    img: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/d0450ce1a6ba19ea60cd724471ed54a8",
+    rate: "86.5",
+    desc: "kgjuyfc",
+    adress: "ceh5",
+  },
+  {
+    name: "hotel_07",
+    img: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hirj3b66f3uphbdinhev",
+    rate: "97.5",
+    desc: "kdftyfc",
+    adress: "hkv",
+  },
+  {
+    name: "hotel_08",
+    img: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029851/PC_Creative%20refresh/3D_bau/banners_new/Ice_Creams.png",
+    rate: "6.5",
+    desc: "hrtsx",
+    adress: "rtshc",
+  },
+];
