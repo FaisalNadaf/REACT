@@ -26,7 +26,7 @@ const Body = () => {
           className="bg-black text-white"
           onClick={() => {
             const res = filterCard(searchText, resturants);
-            res == " " ? setResturants(resturants) : setResturants(res);
+            setResturants(res);
           }}
         >
           search
