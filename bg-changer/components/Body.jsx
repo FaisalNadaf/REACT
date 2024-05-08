@@ -19,7 +19,7 @@ const Body = () => {
       className={`h-screen w-screen bg-[${bg}] flex items-center justify-center`}
     >
       <div
-        className="bg-[#dadee6] rounded-xl w-[40%] flex itens-center justify-center flex-wrap shadow-xl
+        className="bg-[#dadee6] rounded-xl w-[30%] flex itens-center justify-center flex-wrap shadow-xl
     "
       >
         <Btn color={"#000000"} />
