@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Demo from "./Demo";
 
 const Body = () => {
   const [bg, setBg] = useState("white");
@@ -10,8 +11,7 @@ const Body = () => {
         onClick={() => {
           setBg(color);
         }}
-      >
-      </button>
+      ></button>
     );
   };
   return (
@@ -32,6 +32,9 @@ const Body = () => {
         <Btn color={"#7FFFD4"} />
         <Btn color={"#ffdead"} />
         <Btn color={"#7bf9f3"} />
+      </div>
+      <div>
+        <Demo />
       </div>
     </div>
   );
